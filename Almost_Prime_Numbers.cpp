@@ -1,4 +1,4 @@
-// Still on progress to be solved.
+// Still in progress to be solved.
 
 #include <stdio.h>
 #include <stdlib.h>
